@@ -1,0 +1,9 @@
+.post_container {
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5%;
+    background-color:white;
+    padding:2%;
+    word-wrap: break-word;
+}

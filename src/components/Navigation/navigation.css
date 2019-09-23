@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Nova+Script&display=swap');
+
+#nav-bar-holder {
+    width:100%;
+    left:0;
+    right:0;
+    top:0;
+    background-color: white;
+}
+
+#left-nav-bar {
+    float:left;
+    width: 60%;
+    padding:1%;
+}
+
+.nav-link-styles {
+    padding:2%;
+    text-decoration: none;
+    color:black;
+}
+
+.nav-link-styles:hover {
+    background-color:gray;
+}
+
+.active {
+    background-color:#ed9985;
+    color:lightgray;
+    font-weight:bold;
+}
+
+#blog_title {
+    font-family: 'Nova Script', cursive;
+    text-align: center;
+    font-size:2em;
+    color:#ed9985;
+}
+
+#title_container {
+    width:100%;
+    left:0;
+    right:0;
+    margin-top:8%;
+}

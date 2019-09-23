@@ -1,0 +1,51 @@
+#main-body-container {
+    width:82%;
+    margin-left:9%;
+    margin-top: 8%;
+}
+
+#left-home-container {
+    float: left;
+    width:70%;
+}
+
+#right-home-container {
+    float:right;
+    width:30%;
+}
+
+.card-body {
+    width:80%; 
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:5%;
+    background-color:white;
+    padding:2%;  
+}
+
+#about-me {
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5%;
+    padding: 2%;
+    background-color:white;
+}
+
+#blog_prof_pic {
+    width:100%;
+}
+
+.title-text {
+    font-family: 'Nova Script', cursive;
+    text-align:center;
+    color:#ed9985;
+}
+
+#current_months {
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    padding: 2%;
+    background-color:white;
+}

@@ -1,0 +1,13 @@
+.min-card-body {
+    width:38%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    float:left;
+    background-color:white;
+    padding:2%;
+}
+
+.icon-style-contact {
+    margin-right:3%;
+    z-index: -90;
+}
