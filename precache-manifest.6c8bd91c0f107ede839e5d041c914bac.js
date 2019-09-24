@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9a023c982fe3c9ce287d973fc4546e3",
+    "revision": "0902302ef4d3d1ef3e077133c6881faf",
     "url": "/index.html"
   },
   {
-    "revision": "3b590bf0767b6d05d0cb",
-    "url": "/static/css/main.a345b014.chunk.css"
+    "revision": "6c8dcbff850036930b64",
+    "url": "/static/css/main.ec22399d.chunk.css"
   },
   {
-    "revision": "a28c81b67a0322bf5e46",
-    "url": "/static/js/2.d049015f.chunk.js"
+    "revision": "9c03f486ad1b5f10c891",
+    "url": "/static/js/2.dfae9b97.chunk.js"
   },
   {
-    "revision": "3b590bf0767b6d05d0cb",
-    "url": "/static/js/main.2e5720c6.chunk.js"
+    "revision": "6c8dcbff850036930b64",
+    "url": "/static/js/main.4441290c.chunk.js"
   },
   {
     "revision": "7b01827abf14a58e70c6",
@@ -52,8 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Blog_4.42c11899.md"
   },
   {
-    "revision": "ac22c8dd9c412bddb52c7898ccc6218a",
-    "url": "/static/media/Blog_5.ac22c8dd.md"
+    "revision": "86796705cf94e8f37bf0875248870cbd",
+    "url": "/static/media/Blog_5.86796705.md"
+  },
+  {
+    "revision": "b00fe196b5256f6f44d2bc0eddec9f10",
+    "url": "/static/media/Blog_5.b00fe196.md"
   },
   {
     "revision": "2fc9a138687bcaddd9602ab623f3c4c1",
@@ -70,6 +74,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76250cac9ee48bc3c8bbb838a16ce3f7",
     "url": "/static/media/b_4.76250cac.png"
+  },
+  {
+    "revision": "4e953248e017b3a6027f56af2d0c2c27",
+    "url": "/static/media/b_5_1.4e953248.JPG"
+  },
+  {
+    "revision": "8ab9cad3dbc09d29ec270b0b90dce1c2",
+    "url": "/static/media/b_5_2.8ab9cad3.JPG"
+  },
+  {
+    "revision": "0770a6138a23e87ab724082c21dda21b",
+    "url": "/static/media/b_5_3.0770a613.JPG"
+  },
+  {
+    "revision": "dbb22e06a1f5bfd7b1c17454a7031cd6",
+    "url": "/static/media/b_5_4.dbb22e06.JPG"
+  },
+  {
+    "revision": "69877e4aa41acc6fce436fe17f032c79",
+    "url": "/static/media/b_5_5.69877e4a.JPG"
+  },
+  {
+    "revision": "f818dfb4005e302c6a92501087069ca8",
+    "url": "/static/media/b_5_6.f818dfb4.JPG"
   },
   {
     "revision": "5c106c7f746f5597697a1c06eb45fafc",
